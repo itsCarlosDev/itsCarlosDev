@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Estudiante de Ingeniería Informática · Desarrollo web · IA, hardware y software con impacto real
+  Estudiante de Ingeniería Informática · Desarrollo web · Software e IA aplicada
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+en+la+UAB;Desarrollo+web+con+WordPress%2C+WooCommerce+y+c%C3%B3digo;Explorando+React%2C+Django%2C+MongoDB+e+IA+aplicada;Interesado+en+hardware%2C+ciberseguridad+y+software+robusto;Aprendiendo+construyendo+proyectos+reales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Ingenier%C3%ADa+Inform%C3%A1tica+en+la+UAB;Desarrollo+web+con+WordPress%2C+WooCommerce+y+c%C3%B3digo;Aprendiendo+React%2C+Django%2C+MongoDB+e+IA+aplicada;Interesado+en+software%2C+ciberseguridad+y+hardware;Construyendo+proyectos+reales+para+aprender" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,18 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/itsCarlosDev">
-    <img src="https://img.shields.io/badge/GitHub-itsCarlosDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/itsCarlosDev">
-    <img src="https://img.shields.io/badge/X-itsCarlosDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-morales-artes/">
-    <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Morales%20Art%C3%A9s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@SpendRed23">
-    <img src="https://img.shields.io/badge/YouTube-SpendRed23-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  <a href="https://github.com/itsCarlosDev"><img src="https://img.shields.io/badge/GitHub-itsCarlosDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/itsCarlosDev"><img src="https://img.shields.io/badge/X-itsCarlosDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/carlos-morales-artes/"><img src="https://img.shields.io/badge/LinkedIn-Carlos%20Morales%20Art%C3%A9s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@SpendRed23"><img src="https://img.shields.io/badge/YouTube-SpendRed23-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 ---
@@ -38,15 +30,18 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería Informática en la Universitat Autònoma de Barcelona**, formándome en programación, inteligencia artificial, hardware y desarrollo de soluciones tecnológicas que aporten valor real a empresas y personas.
+Soy estudiante de **Ingeniería Informática en la Universitat Autònoma de Barcelona**.
+Me interesa construir software útil, bien estructurado y con impacto real.
 
-Me interesa crear software útil, bien planteado y con una visión práctica: entender el problema, construir una primera versión funcional, probarla y mejorarla.
+Tengo experiencia práctica en desarrollo web con **WordPress, Divi, WooCommerce, HTML, CSS, JavaScript y PHP**, y actualmente estoy reforzando mis bases en programación, backend, inteligencia artificial aplicada y desarrollo de software robusto.
 
-- 🎓 Estudiante de **Ingeniería Informática** en la **UAB**.
-- 💻 Experiencia creando y mejorando webs con **WordPress, Divi, WooCommerce, HTML, CSS, JavaScript y PHP**.
-- 🧠 Explorando **React, Django, MongoDB, IA aplicada y ciberseguridad**.
-- 🔧 Interesado en **hardware, Arduino, microcontroladores, impresión 3D y proyectos maker**.
-- 🚀 Busco crecer como futuro ingeniero capaz de aportar en **desarrollo, automatización y mejora continua**.
+Me motiva aprender construyendo: entender un problema real, crear una primera versión funcional, probarla y mejorarla progresivamente.
+
+* 🎓 Estudiante de **Ingeniería Informática** en la **UAB**.
+* 💻 Experiencia creando y mejorando webs con **WordPress, Divi, WooCommerce, HTML, CSS, JavaScript y PHP**.
+* 🧠 Explorando **React, Django, MongoDB, IA aplicada y ciberseguridad**.
+* 🔧 Interesado en **hardware, Arduino, microcontroladores, impresión 3D y proyectos maker**.
+* 🚀 Busco crecer como futuro ingeniero capaz de aportar en **desarrollo, automatización y mejora continua**.
 
   </td>
   <td width="44%" valign="top">
@@ -56,12 +51,28 @@ Me interesa crear software útil, bien planteado y con una visión práctica: en
 ```js
 const carlos = {
   studies: "Computer Engineering @ UAB",
-  currentFocus: ["Web", "Software", "IA", "Hardware"],
+  focus: ["Web Development", "Software Engineering", "Applied AI"],
+  experience: ["WordPress", "WooCommerce", "Custom Web Solutions"],
   learning: ["React", "Django", "MongoDB", "Cybersecurity"],
   mindset: "Learn by building",
-  goal: "Build useful, secure and efficient software"
+  goal: "Build secure, efficient and useful software"
 };
 ```
+
+<br>
+
+<p align="center">
+  <b>✨ En constante aprendizaje</b><br>
+  <sub>construyendo proyectos reales paso a paso</sub>
+</p>
+
+<p align="center">
+  <code>web</code> · <code>software</code> · <code>IA</code> · <code>hardware</code>
+</p>
+
+<p align="center">
+  <code>while (learning) { build(); improve(); }</code>
+</p>
 
   </td>
   </tr>
@@ -86,6 +97,7 @@ const carlos = {
 ## 🧰 Tech Stack
 
 ### 🌐 Web & UI
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -97,6 +109,7 @@ const carlos = {
 </p>
 
 ### ⚙️ Programación, backend & datos
+
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -107,6 +120,7 @@ const carlos = {
 </p>
 
 ### 🚀 Explorando ahora
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -119,6 +133,7 @@ const carlos = {
 </p>
 
 ### 🛠️ Herramientas
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -164,12 +179,12 @@ const carlos = {
 
 ## 🧩 Experiencias y proyectos recientes
 
-| Proyecto / experiencia | Qué trabajé | Tecnologías / enfoque |
-|---|---|---|
-| 🚚 **INTERHACK BCN · Logística** | MVP para planificación de rutas, visualización de entregas y organización operativa de reparto. | Django · MongoDB · JavaScript · Bootstrap · OpenStreetMap · IA |
-| 🌐 **Proyectos web con WordPress & WooCommerce** | Mejora de estructura, diseño responsive, UX/UI, CSS personalizado, páginas de producto y conversión. | WordPress · Divi · WooCommerce · HTML · CSS · JS · PHP |
-| 🏆 **UAB THE HACK** | Trabajo con datos reales, análisis visual y propuesta técnica en entorno de hackathon. | Visualización · análisis · resolución de problemas |
-| 🔌 **Proyectos maker y hardware** | Aprendizaje progresivo con microcontroladores, sensores, comunicación inalámbrica, drones e impresión 3D. | Arduino · PIC · sensores · 3D |
+| Proyecto / experiencia                           | Qué trabajé                                                                                               | Tecnologías / enfoque                                          |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 🚚 **INTERHACK BCN · Logística**                 | MVP para planificación de rutas, visualización de entregas y organización operativa de reparto.           | Django · MongoDB · JavaScript · Bootstrap · OpenStreetMap · IA |
+| 🌐 **Proyectos web con WordPress & WooCommerce** | Mejora de estructura, diseño responsive, UX/UI, CSS personalizado, páginas de producto y conversión.      | WordPress · Divi · WooCommerce · HTML · CSS · JS · PHP         |
+| 🏆 **UAB THE HACK**                              | Trabajo con datos reales, análisis visual y propuesta técnica en entorno de hackathon.                    | Visualización · análisis · resolución de problemas             |
+| 🔌 **Proyectos maker y hardware**                | Aprendizaje progresivo con microcontroladores, sensores, comunicación inalámbrica, drones e impresión 3D. | Arduino · PIC · sensores · 3D                                  |
 
 ---
 
@@ -221,15 +236,9 @@ const carlos = {
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-morales-artes/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/itsCarlosDev">
-    <img src="https://img.shields.io/badge/X-itsCarlosDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.youtube.com/@SpendRed23">
-    <img src="https://img.shields.io/badge/YouTube-SpendRed23-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  <a href="https://www.linkedin.com/in/carlos-morales-artes/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/itsCarlosDev"><img src="https://img.shields.io/badge/X-itsCarlosDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.youtube.com/@SpendRed23"><img src="https://img.shields.io/badge/YouTube-SpendRed23-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <p align="center">
