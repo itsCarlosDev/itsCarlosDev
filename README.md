@@ -38,6 +38,7 @@ Me motiva aprender construyendo: entender un problema real, crear una primera ve
 
 * 🎓 Estudiante de **Ingeniería Informática** en la **UAB**.
 * 💻 Experiencia creando y mejorando webs con **WordPress, Divi, WooCommerce, HTML, CSS, JavaScript y PHP**.
+* 🏆 Proyecto ganador en **UAB THE HACK! 2025 · WiFi Challenge**.
 * 🧠 Explorando **React, Django, MongoDB, IA aplicada y ciberseguridad**.
 * 🔧 Interesado en **hardware, Arduino, microcontroladores, impresión 3D y proyectos maker**.
 
@@ -51,6 +52,7 @@ const carlos = {
   studies: "Computer Engineering @ UAB",
   focus: ["Web Development", "Software Engineering", "Applied AI"],
   experience: ["WordPress", "WooCommerce", "Custom Web Solutions"],
+  achievement: "Winner · UAB THE HACK! 2025 WiFi Challenge",
   learning: ["React", "Django", "MongoDB", "Cybersecurity"],
   mindset: "Learn by building",
   goal: "Build secure, efficient and useful software"
@@ -134,12 +136,12 @@ const carlos = {
 
 ## 🚧 Proyectos y aprendizaje reciente
 
-| Área                          | Qué estoy construyendo / aprendiendo                                                                           | Tecnologías                                               |
-| ----------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| 🚚 **Logística & hackathons** | MVPs para rutas, visualización de entregas, organización operativa y apoyo con IA.                             | Django · MongoDB · JavaScript · Bootstrap · OpenStreetMap |
-| 🌐 **Desarrollo web real**    | Webs funcionales, responsive y orientadas a mejorar experiencia de usuario y objetivos reales.                 | WordPress · Divi · WooCommerce · HTML · CSS · JS · PHP    |
-| 🧠 **Software, IA y datos**   | Herramientas para convertir datos y procesos en algo comprensible: dashboards, clasificación y automatización. | Python · IA aplicada · visión por computador · MongoDB    |
-| 🔌 **Hardware & maker**       | Aprendizaje progresivo con sensores, microcontroladores, comunicación inalámbrica, drones e impresión 3D.      | Arduino · PIC · sensores · diseño 3D                      |
+| Área                                              | Qué estoy construyendo / aprendiendo                                                                                                                                           | Tecnologías                                               |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
+| 🏆 **UAB THE HACK! 2025 · WiFi Challenge Winner** | Proyecto ganador centrado en el análisis de datos WiFi anonimizados del campus, visualización geoespacial, mapas dinámicos y apoyo con IA para interpretar información de red. | Python · FastAPI · Folium · Pandas · PyProj · AINA        |
+| 🚚 **Logística & hackathons**                     | MVPs para rutas, visualización de entregas, organización operativa y apoyo con IA.                                                                                             | Django · MongoDB · JavaScript · Bootstrap · OpenStreetMap |
+| 🌐 **Desarrollo web real**                        | Webs funcionales, responsive y orientadas a mejorar experiencia de usuario y objetivos reales.                                                                                 | WordPress · Divi · WooCommerce · HTML · CSS · JS · PHP    |
+| 🔌 **Hardware & maker**                           | Aprendizaje progresivo con sensores, microcontroladores, comunicación inalámbrica, drones e impresión 3D.                                                                      | Arduino · PIC · sensores · diseño 3D                      |
 
 ---
 
@@ -164,13 +166,13 @@ const carlos = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/itsCarlosDev/interhack-2026">interhack-2026</a></h3>
-      <p>MVP de logística desarrollado en hackathon con rutas, mapa, backend, MongoDB e integración de IA.</p>
+      <h3><a href="https://github.com/itsCarlosDev/UAB-THE-HACK-2025-WiFi-Challenge-Winner">🏆 UAB THE HACK! 2025 · WiFi Challenge Winner</a></h3>
+      <p>Proyecto ganador del reto WiFi en UAB THE HACK! 2025. Análisis de datos WiFi anonimizados, visualización geoespacial, mapas dinámicos, dashboard web e integración con AINA.</p>
       <br>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/itsCarlosDev/uab-the-hack">uab-the-hack</a></h3>
-      <p>Proyecto relacionado con hackathon universitario, análisis de datos y resolución de problemas reales.</p>
+      <h3><a href="https://github.com/itsCarlosDev/interhack-2026">interhack-2026</a></h3>
+      <p>MVP de logística desarrollado en hackathon con rutas, mapa, backend, MongoDB e integración de IA.</p>
     </td>
   </tr>
   <tr>
