@@ -39,6 +39,8 @@ Me motiva aprender construyendo: entender un problema real, crear una primera ve
 * 🎓 Estudiante de **Ingeniería Informática** en la **UAB**.
 * 💻 Experiencia creando y mejorando webs con **WordPress, Divi, WooCommerce, HTML, CSS, JavaScript y PHP**.
 * 🏆 Proyecto ganador en **UAB THE HACK! 2025 · WiFi Challenge**.
+* 🚚 Participación en **INTERHACK BCN · Damm Logistics MVP**, proyecto desarrollado en equipo.
+* ✈️ Proyecto académico en **C++**, POO, gestores, ficheros, Makefile y grafos.
 * 🧠 Explorando **React, Django, MongoDB, IA aplicada y ciberseguridad**.
 * 🔧 Interesado en **hardware, Arduino, microcontroladores, impresión 3D y proyectos maker**.
 
@@ -52,7 +54,11 @@ const carlos = {
   studies: "Computer Engineering @ UAB",
   focus: ["Web Development", "Software Engineering", "Applied AI"],
   experience: ["WordPress", "WooCommerce", "Custom Web Solutions"],
-  achievement: "Winner · UAB THE HACK! 2025 WiFi Challenge",
+  projects: [
+    "Winner · UAB THE HACK! 2025 WiFi Challenge",
+    "Damm Logistics MVP",
+    "Flight Manager C++"
+  ],
   learning: ["React", "Django", "MongoDB", "Cybersecurity"],
   mindset: "Learn by building",
   goal: "Build secure, efficient and useful software"
@@ -136,12 +142,13 @@ const carlos = {
 
 ## 🚧 Proyectos y aprendizaje reciente
 
-| Área                                              | Qué estoy construyendo / aprendiendo                                                                                                                                           | Tecnologías                                               |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| 🏆 **UAB THE HACK! 2025 · WiFi Challenge Winner** | Proyecto ganador centrado en el análisis de datos WiFi anonimizados del campus, visualización geoespacial, mapas dinámicos y apoyo con IA para interpretar información de red. | Python · FastAPI · Folium · Pandas · PyProj · AINA        |
-| 🚚 **Logística & hackathons**                     | MVPs para rutas, visualización de entregas, organización operativa y apoyo con IA.                                                                                             | Django · MongoDB · JavaScript · Bootstrap · OpenStreetMap |
-| 🌐 **Desarrollo web real**                        | Webs funcionales, responsive y orientadas a mejorar experiencia de usuario y objetivos reales.                                                                                 | WordPress · Divi · WooCommerce · HTML · CSS · JS · PHP    |
-| 🔌 **Hardware & maker**                           | Aprendizaje progresivo con sensores, microcontroladores, comunicación inalámbrica, drones e impresión 3D.                                                                      | Arduino · PIC · sensores · diseño 3D                      |
+| Área                                              | Qué estoy construyendo / aprendiendo                                                                                                                                                     | Tecnologías                                                    |
+| ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 🏆 **UAB THE HACK! 2025 · WiFi Challenge Winner** | Proyecto ganador centrado en el análisis de datos WiFi anonimizados del campus, visualización geoespacial, mapas dinámicos y apoyo con IA para interpretar información de red.           | Python · FastAPI · Folium · Pandas · PyProj · AINA             |
+| 🚚 **INTERHACK BCN · Damm Logistics MVP**         | Proyecto desarrollado en equipo para el reto logístico de Damm: planificación de rutas, organización de carga, visualización en mapa y apoyo con IA para explicar decisiones operativas. | Django · MongoDB · JavaScript · Bootstrap · OpenStreetMap · IA |
+| ✈️ **Flight Manager C++ · OOP & Graphs**          | Aplicación CLI desarrollada en C++ antes de empezar segundo de carrera para practicar POO, gestores, arrays reservados, ficheros, Makefile y grafos.                                     | C++ · OOP · Makefile · fstream · grafos                        |
+| 🌐 **Desarrollo web real**                        | Webs funcionales, responsive y orientadas a mejorar experiencia de usuario y objetivos reales.                                                                                           | WordPress · Divi · WooCommerce · HTML · CSS · JS · PHP         |
+| 🔌 **Hardware & maker**                           | Aprendizaje progresivo con sensores, microcontroladores, comunicación inalámbrica, drones e impresión 3D.                                                                                | Arduino · PIC · sensores · diseño 3D                           |
 
 ---
 
@@ -171,14 +178,14 @@ const carlos = {
       <br>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/itsCarlosDev/interhack-2026">interhack-2026</a></h3>
-      <p>MVP de logística desarrollado en hackathon con rutas, mapa, backend, MongoDB e integración de IA.</p>
+      <h3><a href="https://github.com/Francois0405/LosCaptcha_InterHack">🚚 INTERHACK BCN · Damm Logistics MVP</a></h3>
+      <p>Proyecto desarrollado en equipo para el reto logístico de Damm. MVP con planificación de rutas, organización de carga, visualización en mapa, backend con Django, MongoDB e integración con IA.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/itsCarlosDev/GestorVehiculosCPP-POO">GestorVehiculosCPP-POO</a></h3>
-      <p>Proyecto de programación orientada a objetos en C++.</p>
+      <h3><a href="https://github.com/itsCarlosDev/GestorVuelosCPP-POO">✈️ Flight Manager C++ · OOP & Graphs</a></h3>
+      <p>Aplicación CLI en C++ desarrollada antes de empezar segundo de carrera para practicar programación orientada a objetos, gestores, arrays reservados, ficheros, Makefile y grafos.</p>
       <br>
     </td>
     <td width="50%" valign="top">
