@@ -30,8 +30,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería Informática en la Universitat Autònoma de Barcelona**.
-Me interesa construir software útil, bien estructurado y con impacto real.
+Soy estudiante de **Ingeniería Informática en la Universitat Autònoma de Barcelona**. Me interesa construir software útil, bien estructurado y con impacto real.
 
 Tengo experiencia práctica en desarrollo web con **WordPress, Divi, WooCommerce, HTML, CSS, JavaScript y PHP**, y actualmente estoy reforzando mis bases en programación, backend, inteligencia artificial aplicada y desarrollo de software robusto.
 
@@ -41,7 +40,6 @@ Me motiva aprender construyendo: entender un problema real, crear una primera ve
 * 💻 Experiencia creando y mejorando webs con **WordPress, Divi, WooCommerce, HTML, CSS, JavaScript y PHP**.
 * 🧠 Explorando **React, Django, MongoDB, IA aplicada y ciberseguridad**.
 * 🔧 Interesado en **hardware, Arduino, microcontroladores, impresión 3D y proyectos maker**.
-* 🚀 Busco crecer como futuro ingeniero capaz de aportar en **desarrollo, automatización y mejora continua**.
 
   </td>
   <td width="44%" valign="top">
@@ -61,10 +59,14 @@ const carlos = {
 
 <br>
 
-<p align="center">
-  <b>✨ En constante aprendizaje</b><br>
-  <sub>construyendo proyectos reales paso a paso</sub>
-</p>
+### 🎯 Ahora mismo
+
+* Construyendo una base sólida como futuro ingeniero informático.
+* Mejorando mi perfil técnico con proyectos reales.
+* Aprendiendo tecnologías modernas sin perder las bases.
+* Buscando crecer en desarrollo, automatización y mejora continua.
+
+<br>
 
 <p align="center">
   <code>web</code> · <code>software</code> · <code>IA</code> · <code>hardware</code>
@@ -77,20 +79,6 @@ const carlos = {
   </td>
   </tr>
 </table>
-
-<details>
-  <summary><b>📌 Leer perfil profesional completo</b></summary>
-  <br>
-
-🧑‍💻 Soy estudiante de Ingeniería Informática, formándome en programación, inteligencia artificial, hardware y en el desarrollo de soluciones tecnológicas que aporten valor real a empresas y personas.
-
-🔧 Actualmente estoy ampliando mis conocimientos por iniciativa propia en áreas como el diseño e impresión 3D, la programación orientada a la ciberseguridad y el desarrollo de software robusto.
-
-🚀 Busco unirme a proyectos y empresas tecnológicas que valoren la calidad y la innovación, donde pueda aportar en áreas de desarrollo, automatización y mejora continua.
-
-💡 Me definen la constancia, la responsabilidad y las ganas de aprender, con el objetivo de convertirme en un ingeniero que contribuya a crear software seguro, eficiente y con impacto positivo.
-
-</details>
 
 ---
 
@@ -144,47 +132,14 @@ const carlos = {
 
 ---
 
-## 🚧 En qué estoy trabajando y aprendiendo
+## 🚧 Proyectos y aprendizaje reciente
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Desarrollo web real</h3>
-      <p>Me interesa crear webs que no solo se vean bien, sino que funcionen correctamente, tengan buena experiencia de usuario y ayuden a resolver objetivos reales.</p>
-      <p><b>Stack:</b> WordPress · WooCommerce · Divi · HTML · CSS · JavaScript · PHP</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 Software, IA y datos</h3>
-      <p>Estoy aprendiendo a convertir datos y procesos complejos en herramientas comprensibles: dashboards, clasificación, automatización y apoyo a la toma de decisiones.</p>
-      <p><b>Explorando:</b> Python · IA aplicada · visión por computador · MongoDB</p>
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Backend y aplicaciones</h3>
-      <p>Estoy reforzando bases de programación, estructuras de datos, orientación a objetos, bases de datos y desarrollo backend para construir aplicaciones más robustas.</p>
-      <p><b>Explorando:</b> Django · Java · C++ · MySQL · arquitectura básica</p>
-      <br>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 Hardware y proyectos maker</h3>
-      <p>Me gusta entender cómo el software se conecta con el mundo físico mediante sensores, microcontroladores, comunicación entre módulos e impresión 3D.</p>
-      <p><b>Intereses:</b> Arduino · PIC · sensores · drones · diseño 3D</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧩 Experiencias y proyectos recientes
-
-| Proyecto / experiencia                           | Qué trabajé                                                                                               | Tecnologías / enfoque                                          |
-| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 🚚 **INTERHACK BCN · Logística**                 | MVP para planificación de rutas, visualización de entregas y organización operativa de reparto.           | Django · MongoDB · JavaScript · Bootstrap · OpenStreetMap · IA |
-| 🌐 **Proyectos web con WordPress & WooCommerce** | Mejora de estructura, diseño responsive, UX/UI, CSS personalizado, páginas de producto y conversión.      | WordPress · Divi · WooCommerce · HTML · CSS · JS · PHP         |
-| 🏆 **UAB THE HACK**                              | Trabajo con datos reales, análisis visual y propuesta técnica en entorno de hackathon.                    | Visualización · análisis · resolución de problemas             |
-| 🔌 **Proyectos maker y hardware**                | Aprendizaje progresivo con microcontroladores, sensores, comunicación inalámbrica, drones e impresión 3D. | Arduino · PIC · sensores · 3D                                  |
+| Área                          | Qué estoy construyendo / aprendiendo                                                                           | Tecnologías                                               |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 🚚 **Logística & hackathons** | MVPs para rutas, visualización de entregas, organización operativa y apoyo con IA.                             | Django · MongoDB · JavaScript · Bootstrap · OpenStreetMap |
+| 🌐 **Desarrollo web real**    | Webs funcionales, responsive y orientadas a mejorar experiencia de usuario y objetivos reales.                 | WordPress · Divi · WooCommerce · HTML · CSS · JS · PHP    |
+| 🧠 **Software, IA y datos**   | Herramientas para convertir datos y procesos en algo comprensible: dashboards, clasificación y automatización. | Python · IA aplicada · visión por computador · MongoDB    |
+| 🔌 **Hardware & maker**       | Aprendizaje progresivo con sensores, microcontroladores, comunicación inalámbrica, drones e impresión 3D.      | Arduino · PIC · sensores · diseño 3D                      |
 
 ---
 
