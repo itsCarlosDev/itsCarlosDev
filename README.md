@@ -10,14 +10,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Ingenier%C3%ADa+Inform%C3%A1tica+en+la+UAB;Ganador+del+reto+WiFi+en+UAB+THE+HACK%21+2025;Desarrollo+web+con+WordPress%2C+WooCommerce+y+c%C3%B3digo;Explorando+React%2C+Django%2C+MongoDB+e+IA+aplicada;Aprendiendo+a+trav%C3%A9s+de+proyectos+reales" alt="Presentación animada" />
 </p>
 
+<p align="center">
+  <b>Aprendiendo mediante proyectos reales y mejorando en cada iteración.</b><br>
+  <sub>desarrollo web · software · IA aplicada · hardware · automatización</sub>
+</p>
+
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-morales-artes/"><img src="https://img.shields.io/badge/LinkedIn-Carlos%20Morales%20Art%C3%A9s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/itsCarlosDev"><img src="https://img.shields.io/badge/X-itsCarlosDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/itscarlosdev/"><img src="https://img.shields.io/badge/Instagram-itscarlosdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.tiktok.com/@spendred23"><img src="https://img.shields.io/badge/TikTok-SpendRed23-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://www.youtube.com/@SpendRed23"><img src="https://img.shields.io/badge/YouTube-SpendRed23-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/carlos-morales-artes/"><img src="https://img.shields.io/badge/LinkedIn-Carlos%20Morales%20Art%C3%A9s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Carlos Morales Artés" /></a>
+  <a href="https://x.com/itsCarlosDev"><img src="https://img.shields.io/badge/X-itsCarlosDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X de itsCarlosDev" /></a>
+  <a href="https://www.instagram.com/itscarlosdev/"><img src="https://img.shields.io/badge/Instagram-itscarlosdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de itscarlosdev" /></a>
+  <a href="https://www.tiktok.com/@spendred23"><img src="https://img.shields.io/badge/TikTok-SpendRed23-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok de SpendRed23" /></a>
+  <a href="https://www.youtube.com/@SpendRed23"><img src="https://img.shields.io/badge/YouTube-SpendRed23-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube de SpendRed23" /></a>
 </p>
 
 <br>
@@ -26,15 +31,15 @@
 
 <table>
   <tr>
-    <td width="52%" valign="top">
+    <td width="51%" valign="top">
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería Informática en la Universitat Autònoma de Barcelona** y me interesa crear software útil, bien estructurado y con aplicación práctica.
+Soy estudiante de **Ingeniería Informática en la Universitat Autònoma de Barcelona** y me interesa desarrollar soluciones tecnológicas útiles, bien estructuradas y con aplicación práctica.
 
-Tengo experiencia desarrollando y mejorando webs con **WordPress, Divi, WooCommerce, HTML, CSS, JavaScript y PHP**. Al mismo tiempo, estoy reforzando mis bases en programación, backend y desarrollo de software.
+Tengo experiencia creando y mejorando webs con **WordPress, Divi, WooCommerce, HTML, CSS, JavaScript y PHP**. Paralelamente, estoy reforzando mis conocimientos de programación, backend y desarrollo de software.
 
-Me gusta aprender construyendo: entender un problema, desarrollar una primera solución funcional, validarla y mejorarla progresivamente.
+Me gusta trabajar de forma progresiva: comprender el problema, construir una primera solución funcional, validarla y seguir mejorándola.
 
 * 🎓 Estudiante de **Ingeniería Informática en la UAB**.
 * 💻 Experiencia práctica en **desarrollo web y comercio electrónico**.
@@ -43,22 +48,25 @@ Me gusta aprender construyendo: entender un problema, desarrollar una primera so
 * 🔧 Interesado en **hardware, microcontroladores, impresión 3D y proyectos maker**.
 
   </td>
-  <td width="48%" valign="top">
+  <td width="49%" valign="top">
 
 ## 💻 Terminal
 
 ```ini
 ; carlos@itsCarlosDev:~$ cat profile.ini
 
-[profile]
+[identity]
 name = Carlos Morales Artés
 role = Computer Engineering Student @ UAB
-location = Barcelona, Spain
 
 [focus]
 primary = Web Development
 secondary = Software Engineering
 exploring = Applied AI
+
+[experience]
+web = WordPress · WooCommerce · Divi
+code = HTML · CSS · JavaScript · PHP
 
 [achievement]
 winner = UAB THE HACK! 2025 · WiFi Challenge
@@ -96,7 +104,7 @@ goal = Useful, secure and efficient software
 
 ## 🧰 Tech Stack
 
-### 🌐 Desarrollo web
+### 🌐 Desarrollo web y comercio electrónico
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -125,10 +133,16 @@ goal = Useful, secure and efficient software
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/IA%20aplicada-111827?style=for-the-badge&logo=openai&logoColor=white" alt="IA aplicada" />
+  <img src="https://img.shields.io/badge/IA%20aplicada-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Inteligencia artificial aplicada" />
   <img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=for-the-badge&logo=opencv&logoColor=white" alt="Visión por computador" />
   <img src="https://img.shields.io/badge/Ciberseguridad-1F2937?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Ciberseguridad" />
+</p>
+
+### 🔧 Hardware y proyectos maker
+
+<p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Microcontroladores-334155?style=for-the-badge&logo=espressif&logoColor=white" alt="Microcontroladores" />
   <img src="https://img.shields.io/badge/Impresi%C3%B3n%203D-374151?style=for-the-badge&logo=printables&logoColor=white" alt="Impresión 3D" />
 </p>
 
@@ -139,7 +153,6 @@ goal = Useful, secure and efficient software
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 <br>
@@ -153,7 +166,7 @@ goal = Useful, secure and efficient software
     <td width="50%" valign="top">
       <h3><a href="https://github.com/itsCarlosDev/UAB-THE-HACK-2025-WiFi-Challenge-Winner">🏆 UAB THE HACK! 2025 · WiFi Challenge Winner</a></h3>
       <p>
-        Proyecto ganador basado en el análisis de datos WiFi anonimizados del campus, visualización geoespacial, mapas dinámicos y un dashboard con integración de AINA.
+        Proyecto ganador basado en el análisis de datos WiFi anonimizados del campus, visualización geoespacial, mapas dinámicos y un dashboard web con integración de AINA.
       </p>
       <p><b>Stack:</b> Python · FastAPI · Folium · Pandas · PyProj · AINA</p>
       <br>
@@ -178,7 +191,7 @@ goal = Useful, secure and efficient software
     <td width="50%" valign="top">
       <h3>🌐 Desarrollo web real</h3>
       <p>
-        Creación y mejora de webs corporativas y tiendas online, trabajando estructura, diseño responsive, UX/UI, contenido y conversión.
+        Creación y mejora de webs corporativas y tiendas online, trabajando estructura, diseño responsive, experiencia de usuario, contenido y conversión.
       </p>
       <p><b>Stack:</b> WordPress · Divi · WooCommerce · HTML · CSS · JavaScript · PHP</p>
     </td>
@@ -189,7 +202,7 @@ goal = Useful, secure and efficient software
 
 ---
 
-## 🧠 Cómo trabajo
+## 🧭 Cómo trabajo
 
 <p align="center">
   <code>Entender el problema → construir una primera solución → validarla → mejorarla</code>
