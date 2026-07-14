@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Ingenier%C3%ADa+Inform%C3%A1tica+en+la+UAB;Desarrollo+web+con+WordPress%2C+WooCommerce+y+c%C3%B3digo;Aprendiendo+React%2C+Django%2C+MongoDB+e+IA+aplicada;Interesado+en+software%2C+ciberseguridad+y+hardware;Construyendo+proyectos+reales+para+aprender" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Ingenier%C3%ADa+Inform%C3%A1tica+en+la+UAB;Ganador+del+reto+WiFi+en+UAB+THE+HACK%21+2025;Desarrollo+web+con+WordPress%2C+WooCommerce+y+c%C3%B3digo;Aprendiendo+React%2C+Django%2C+MongoDB+e+IA+aplicada;Construyendo+proyectos+reales+para+aprender" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,18 +15,22 @@
   <sub>web real · software robusto · IA aplicada · hardware · mejora continua</sub>
 </p>
 
+<br>
+
 <p align="center">
-  <a href="https://github.com/itsCarlosDev"><img src="https://img.shields.io/badge/GitHub-itsCarlosDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/itsCarlosDev"><img src="https://img.shields.io/badge/X-itsCarlosDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/carlos-morales-artes/"><img src="https://img.shields.io/badge/LinkedIn-Carlos%20Morales%20Art%C3%A9s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/itsCarlosDev"><img src="https://img.shields.io/badge/X-itsCarlosDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/itscarlosdev/"><img src="https://img.shields.io/badge/Instagram-itscarlosdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@SpendRed23"><img src="https://img.shields.io/badge/YouTube-SpendRed23-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
+
+<br>
 
 ---
 
 <table>
   <tr>
-    <td width="56%" valign="top">
+    <td width="54%" valign="top">
 
 ## 🧑‍💻 Sobre mí
 
@@ -39,46 +43,58 @@ Me motiva aprender construyendo: entender un problema real, crear una primera ve
 * 🎓 Estudiante de **Ingeniería Informática** en la **UAB**.
 * 💻 Experiencia creando y mejorando webs con **WordPress, Divi, WooCommerce, HTML, CSS, JavaScript y PHP**.
 * 🏆 Proyecto ganador en **UAB THE HACK! 2025 · WiFi Challenge**.
-* 🚚 Participación en **INTERHACK BCN · Damm Logistics MVP**, proyecto desarrollado en equipo.
+* 🚚 Participación en **INTERHACK BCN · Damm Logistics MVP**, desarrollado en equipo.
 * ✈️ Proyecto académico en **C++**, POO, gestores, ficheros, Makefile y grafos.
 * 🧠 Explorando **React, Django, MongoDB, IA aplicada y ciberseguridad**.
 * 🔧 Interesado en **hardware, Arduino, microcontroladores, impresión 3D y proyectos maker**.
 
   </td>
-  <td width="44%" valign="top">
+  <td width="46%" valign="top">
 
-## ⚡ Perfil rápido
+## 💻 Terminal
 
-```js
-const carlos = {
-  studies: "Computer Engineering @ UAB",
-  focus: ["Web Development", "Software Engineering", "Applied AI"],
-  experience: ["WordPress", "WooCommerce", "Custom Web Solutions"],
-  projects: [
-    "Winner · UAB THE HACK! 2025 WiFi Challenge",
-    "Damm Logistics MVP",
-    "Flight Manager C++"
-  ],
-  learning: ["React", "Django", "MongoDB", "Cybersecurity"],
-  mindset: "Learn by building",
-  goal: "Build secure, efficient and useful software"
-};
+```text
+carlos@itsCarlosDev:~$ whoami
+
+Carlos Morales Artés
+Computer Engineering Student @ UAB
+
+
+carlos@itsCarlosDev:~$ profile --summary
+
+focus........... Web Development
+                 Software Engineering
+                 Applied AI
+
+experience...... WordPress · WooCommerce
+                 Custom Web Solutions
+
+achievement..... Winner · UAB THE HACK! 2025
+                 WiFi Challenge
+
+projects........ Damm Logistics MVP
+                 Flight Manager C++
+
+learning........ React · Django · MongoDB
+                 Cybersecurity
+
+interests....... Hardware · Arduino
+                 Microcontrollers · 3D Printing
+
+mindset......... Learn by building
+
+goal............ Build useful, secure
+                 and efficient software
+
+
+carlos@itsCarlosDev:~$ ./next-step
+
+Building real projects...
+Learning continuously...
+Improving step by step...
 ```
 
 <br>
-
-### 🎯 Ahora mismo
-
-* Construyendo una base sólida como futuro ingeniero informático.
-* Mejorando mi perfil técnico con proyectos reales.
-* Aprendiendo tecnologías modernas sin perder las bases.
-* Buscando crecer en desarrollo, automatización y mejora continua.
-
-<br>
-
-<p align="center">
-  <code>web</code> · <code>software</code> · <code>IA</code> · <code>hardware</code>
-</p>
 
 <p align="center">
   <code>while (learning) { build(); improve(); }</code>
@@ -87,6 +103,8 @@ const carlos = {
   </td>
   </tr>
 </table>
+
+<br>
 
 ---
 
@@ -138,6 +156,8 @@ const carlos = {
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
+<br>
+
 ---
 
 ## 🚧 Proyectos y aprendizaje reciente
@@ -150,11 +170,13 @@ const carlos = {
 | 🌐 **Desarrollo web real**                        | Webs funcionales, responsive y orientadas a mejorar experiencia de usuario y objetivos reales.                                                                                           | WordPress · Divi · WooCommerce · HTML · CSS · JS · PHP         |
 | 🔌 **Hardware & maker**                           | Aprendizaje progresivo con sensores, microcontroladores, comunicación inalámbrica, drones e impresión 3D.                                                                                | Arduino · PIC · sensores · diseño 3D                           |
 
+<br>
+
 ---
 
 ## 🧠 Mi forma de trabajar
 
-```txt
+```text
 1. Entender bien el problema real
 2. Construir una primera versión funcional
 3. Probarla con restricciones realistas
@@ -165,6 +187,8 @@ const carlos = {
   <i>Me definen la constancia, la responsabilidad y las ganas de aprender.</i><br>
   <i>Mi objetivo es crear software seguro, eficiente y con impacto positivo.</i>
 </p>
+
+<br>
 
 ---
 
@@ -195,6 +219,8 @@ const carlos = {
   </tr>
 </table>
 
+<br>
+
 ---
 
 ## 📫 Contacto
@@ -202,8 +228,11 @@ const carlos = {
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-morales-artes/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/itsCarlosDev"><img src="https://img.shields.io/badge/X-itsCarlosDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/itscarlosdev/"><img src="https://img.shields.io/badge/Instagram-itscarlosdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@SpendRed23"><img src="https://img.shields.io/badge/YouTube-SpendRed23-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
+
+<br>
 
 <p align="center">
   <b>Gracias por visitar mi perfil 🚀</b><br>
