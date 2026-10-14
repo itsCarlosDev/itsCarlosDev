@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Estudio <b>Ingeniería Informática en la UAB</b> y trabajo como <b>desarrollador web</b>.
+  Estudio <b>Ingeniería Informática en la UAB</b> (mención en Computación) y trabajo como <b>desarrollador web</b>.
 </p>
 
 <p align="center">
@@ -26,7 +26,9 @@
 
 ## Sobre mí
 
-En el trabajo desarrollo y mantengo webs y tiendas online. Por mi cuenta también hago proyectos de software, pruebo herramientas nuevas y, cuando tengo tiempo, trasteo con electrónica e impresión 3D.
+Trabajo desarrollando y manteniendo **webs y tiendas online**, principalmente con **PHP, WordPress y WooCommerce**. Además de crear funcionalidades nuevas, soluciono problemas y hago mejoras en proyectos que ya están en marcha.
+
+Fuera del trabajo hago proyectos de software para aprender y probar ideas. También me gusta experimentar con sistemas, electrónica e impresión 3D.
 
 ## Proyectos
 
@@ -39,9 +41,13 @@ En el trabajo desarrollo y mantengo webs y tiendas online. Por mi cuenta tambié
 <a href="https://github.com/itsCarlosDev/Seatly"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/seatly-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/seatly-light.svg" /><img src="./assets/seatly-light.svg" width="49.8%" alt="Seatly: aplicación de reservas de cine en desarrollo. Frontend actual con Angular y Nx." /></picture></a><a href="https://github.com/itsCarlosDev/flight-manager-cpp-oop-graphs"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/flight-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/flight-light.svg" /><img src="./assets/flight-light.svg" width="49.8%" alt="Flight Manager: gestor de vuelos para consola hecho en C++ con programación orientada a objetos y Makefile." /></picture></a>
 </p>
 
+El proyecto ganador de [UAB THE HACK! 2025](https://github.com/itsCarlosDev/UAB-THE-HACK-2025-WiFi-Challenge-Winner) incluye una demo reproducible con datos sintéticos y [documentación sobre la generación de mapas](https://github.com/itsCarlosDev/UAB-THE-HACK-2025-WiFi-Challenge-Winner/blob/main/docs/map-generation.md).
+
 También participé en [INTERHACK BCN](https://github.com/Francois0405/LosCaptcha_InterHack), en un prototipo de logística desarrollado en equipo.
 
 ## Tecnologías
+
+<sub>Una selección de tecnologías que he utilizado en el trabajo, la universidad y proyectos personales.</sub>
 
 **Web y aplicaciones**
 
