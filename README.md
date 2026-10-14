@@ -26,38 +26,74 @@ Fuera de clase suelo estar liado con algún proyecto: Minecraft, electrónica, i
 
 ## Proyectos
 
-<!-- Tarjetas originales. Los ocho SVG de la carpeta assets son necesarios para mostrarlas. -->
-<p align="center">
-  <a href="https://github.com/itsCarlosDev/UAB-THE-HACK-2025-WiFi-Challenge-Winner">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/hack-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/hack-light.svg" />
-      <img alt="THE HACK! 2025: reto WiFi ganador. Análisis y visualización de datos con Python, FastAPI y Folium." src="./assets/hack-light.svg" width="48%" />
-    </picture>
-  </a>
-  <a href="https://github.com/itsCarlosDev/nexus-realms-pack">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/nexus-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/nexus-light.svg" />
-      <img alt="Nexus Realms: mod propio en Java, gestión de modpacks con Packwiz y automatización." src="./assets/nexus-light.svg" width="48%" />
-    </picture>
-  </a>
-  <br />
-  <a href="https://github.com/itsCarlosDev/Seatly">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/seatly-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/seatly-light.svg" />
-      <img alt="Seatly: aplicación de reservas de cine en desarrollo. Frontend actual con Angular y Nx." src="./assets/seatly-light.svg" width="48%" />
-    </picture>
-  </a>
-  <a href="https://github.com/itsCarlosDev/flight-manager-cpp-oop-graphs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/flight-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/flight-light.svg" />
-      <img alt="Flight Manager: gestor de vuelos para consola hecho en C++ con programación orientada a objetos y Makefile." src="./assets/flight-light.svg" width="48%" />
-    </picture>
-  </a>
-</p>
+<!-- Tarjetas con más aire y separación -->
+<table align="center" width="94%">
+  <tr>
+    <td width="47%" valign="top">
+      <a href="https://github.com/itsCarlosDev/UAB-THE-HACK-2025-WiFi-Challenge-Winner">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/hack-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/hack-light.svg" />
+          <img
+            alt="THE HACK! 2025: reto WiFi ganador. Análisis y visualización de datos con Python, FastAPI y Folium."
+            src="./assets/hack-light.svg"
+            width="100%"
+          />
+        </picture>
+      </a>
+    </td>
+
+    <td width="6%"></td>
+
+    <td width="47%" valign="top">
+      <a href="https://github.com/itsCarlosDev/nexus-realms-pack">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/nexus-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/nexus-light.svg" />
+          <img
+            alt="Nexus Realms: mod propio en Java, gestión de modpacks con Packwiz y automatización."
+            src="./assets/nexus-light.svg"
+            width="100%"
+          />
+        </picture>
+      </a>
+    </td>
+  </tr>
+
+  <tr><td colspan="3" height="14"></td></tr>
+
+  <tr>
+    <td width="47%" valign="top">
+      <a href="https://github.com/itsCarlosDev/Seatly">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/seatly-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/seatly-light.svg" />
+          <img
+            alt="Seatly: aplicación de reservas de cine en desarrollo. Frontend actual con Angular y Nx."
+            src="./assets/seatly-light.svg"
+            width="100%"
+          />
+        </picture>
+      </a>
+    </td>
+
+    <td width="6%"></td>
+
+    <td width="47%" valign="top">
+      <a href="https://github.com/itsCarlosDev/flight-manager-cpp-oop-graphs">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/flight-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="./assets/flight-light.svg" />
+          <img
+            alt="Flight Manager: gestor de vuelos para consola hecho en C++ con programación orientada a objetos y Makefile."
+            src="./assets/flight-light.svg"
+            width="100%"
+          />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 También participé en [INTERHACK BCN](https://github.com/Francois0405/LosCaptcha_InterHack), en un prototipo de logística desarrollado en equipo.
 
