@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hola, soy Carlos <img src="./assets/waving-hand.gif" width="32" height="31" alt="👋" />
+  Hola, soy Carlos <img width="31" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Mano saludando" />
 </h1>
 
 <p align="center">
@@ -8,9 +8,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/typing-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/typing-light.gif" />
-    <img src="./assets/typing-light.gif" alt="THE HACK! 2025, Nexus Realms, programación y hardware" width="760" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&amp;weight=500&amp;size=20&amp;duration=2900&amp;pause=1300&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=48&amp;lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&amp;color=8FCFD0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&amp;weight=500&amp;size=20&amp;duration=2900&amp;pause=1300&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=48&amp;lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&amp;color=247A86" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&amp;weight=500&amp;size=20&amp;duration=2900&amp;pause=1300&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=48&amp;lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&amp;color=247A86" alt="Ganamos el WiFi Challenge en THE HACK! 2025. Nexus Realms. Programación y hardware." />
   </picture>
 </p>
 
