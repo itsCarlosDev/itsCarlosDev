@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="256" viewBox="0 0 620 256" role="img" aria-labelledby="ttl desc">
+<title id="ttl">Flight Manager</title><desc id="desc">Flight Manager: gestor de vuelos para consola hecho en C++ con programación orientada a objetos y Makefile.</desc>
+<rect x="1" y="1" width="618" height="254" rx="19" fill="#111922" stroke="#2B3D4B" stroke-width="2"/>
+<rect x="26" y="27" width="84" height="89" rx="21" fill="#1A2B39"/>
+<g fill="none" stroke="#55C7BE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M45 80l43-23-11 42-10-17-22-2Z"/><path d="M67 82l21-25"/></g>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+ <text x="129" y="49" font-size="12" letter-spacing="1.9" font-weight="700" fill="#8EAAB8">PROYECTO DE C++</text>
+ <text x="127" y="91" font-size="31" font-weight="700" fill="#F3F7FA">Flight Manager</text>
+ <text x="34" y="154" font-size="19" font-weight="400" fill="#B4C2CC">Gestor de vuelos en consola para practicar</text>
+ <text x="34" y="179" font-size="19" font-weight="400" fill="#B4C2CC">clases, ficheros y estructuras de datos.</text>
+ <rect x="36" y="211" width="50.3" height="28" rx="9" fill="#202F3C"/><text x="47" y="230" font-size="14" font-weight="500" fill="#C7D4DE">C++</text><rect x="96.3" y="211" width="50.3" height="28" rx="9" fill="#202F3C"/><text x="107.3" y="230" font-size="14" font-weight="500" fill="#C7D4DE">POO</text><rect x="156.6" y="211" width="95.8" height="28" rx="9" fill="#202F3C"/><text x="167.6" y="230" font-size="14" font-weight="500" fill="#C7D4DE">Makefile</text>
+ <path d="M560 220h22m-9-9 9 9-9 9" fill="none" stroke="#55C7BE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>
