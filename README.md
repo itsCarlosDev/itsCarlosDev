@@ -8,9 +8,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=20&duration=2900&pause=1300&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&color=8FCFD0" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=20&duration=2900&pause=1300&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&color=247A86" />
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=20&duration=2900&pause=1300&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&color=247A86" alt="Ganamos el WiFi Challenge en THE HACK! 2025. Nexus Realms. Programación y hardware." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=20&duration=3000&pause=1600&center=true&vCenter=true&repeat=true&width=820&height=48&lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&color=8FCFD0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=20&duration=3000&pause=1600&center=true&vCenter=true&repeat=true&width=820&height=48&lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&color=247A86" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=20&duration=3000&pause=1600&center=true&vCenter=true&repeat=true&width=820&height=48&lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&color=247A86" alt="Ganamos el WiFi Challenge en THE HACK! 2025. Nexus Realms. Programación y hardware." />
   </picture>
 </p>
 
@@ -30,41 +30,13 @@ En el trabajo desarrollo y mantengo webs y tiendas online. Por mi cuenta tambié
 
 ## Proyectos
 
-<!-- Dos filas independientes, sin tablas ni CSS que GitHub pueda bloquear -->
+<!-- Dos tarjetas por fila, sin tablas y aprovechando el ancho disponible -->
 <p align="center">
-  <a href="https://github.com/itsCarlosDev/UAB-THE-HACK-2025-WiFi-Challenge-Winner">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/hack-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/hack-light.svg" />
-      <img src="./assets/hack-light.svg" width="44%" alt="THE HACK! 2025: reto WiFi ganador. Análisis y visualización de datos con Python, FastAPI y Folium." />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/itsCarlosDev/nexus-realms-pack">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/nexus-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/nexus-light.svg" />
-      <img src="./assets/nexus-light.svg" width="44%" alt="Nexus Realms: mod propio en Java, gestión de modpacks con Packwiz y automatización." />
-    </picture>
-  </a>
+<a href="https://github.com/itsCarlosDev/UAB-THE-HACK-2025-WiFi-Challenge-Winner"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hack-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/hack-light.svg" /><img src="./assets/hack-light.svg" width="49%" alt="THE HACK! 2025: reto WiFi ganador. Análisis y visualización de datos con Python, FastAPI y Folium." /></picture></a><a href="https://github.com/itsCarlosDev/nexus-realms-pack"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nexus-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/nexus-light.svg" /><img src="./assets/nexus-light.svg" width="49%" alt="Nexus Realms: mod propio en Java, gestión de modpacks con Packwiz y automatización." /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/itsCarlosDev/Seatly">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/seatly-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/seatly-light.svg" />
-      <img src="./assets/seatly-light.svg" width="44%" alt="Seatly: aplicación de reservas de cine en desarrollo. Frontend actual con Angular y Nx." />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/itsCarlosDev/flight-manager-cpp-oop-graphs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/flight-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/flight-light.svg" />
-      <img src="./assets/flight-light.svg" width="44%" alt="Flight Manager: gestor de vuelos para consola hecho en C++ con programación orientada a objetos y Makefile." />
-    </picture>
-  </a>
+<a href="https://github.com/itsCarlosDev/Seatly"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/seatly-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/seatly-light.svg" /><img src="./assets/seatly-light.svg" width="49%" alt="Seatly: aplicación de reservas de cine en desarrollo. Frontend actual con Angular y Nx." /></picture></a><a href="https://github.com/itsCarlosDev/flight-manager-cpp-oop-graphs"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/flight-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/flight-light.svg" /><img src="./assets/flight-light.svg" width="49%" alt="Flight Manager: gestor de vuelos para consola hecho en C++ con programación orientada a objetos y Makefile." /></picture></a>
 </p>
 
 También participé en [INTERHACK BCN](https://github.com/Francois0405/LosCaptcha_InterHack), en un prototipo de logística desarrollado en equipo.
