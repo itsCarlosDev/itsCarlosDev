@@ -45,50 +45,50 @@ También participé en [INTERHACK BCN](https://github.com/Francois0405/LosCaptch
 
 **Web y aplicaciones**
 
-<p align="center">
-  <img alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="PHP" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="Angular" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="WordPress" title="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="WooCommerce" title="WooCommerce" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg" width="32" height="32" />
+<p>
+  <img alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="PHP" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="Angular" title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="WordPress" title="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="WooCommerce" title="WooCommerce" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg" width="30" height="30" />
 </p>
 
 **Programación y datos**
 
-<p align="center">
-  <img alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" height="32" />
+<p>
+  <img alt="C" title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="C++" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30" />
 </p>
 
 **Herramientas**
 
-<p align="center">
-  <img alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="GitHub Actions" title="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" height="32" />
-  &nbsp;&nbsp;
-  <img alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32" height="32" />
+<p>
+  <img alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="GitHub Actions" title="GitHub Actions" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" />
+  &nbsp;
+  <img alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" />
 </p>
 
 **También me interesa:** ESP32, CAD, impresión 3D y automatización de servidores.
