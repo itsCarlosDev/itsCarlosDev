@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-morales-artes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-26333D?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/carlos-morales-artes/"><img alt="LinkedIn" src="./assets/linkedin-badge.svg" /></a>
   <a href="https://www.instagram.com/itscarlosdev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-26333D?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://x.com/itsCarlosDev"><img alt="X" src="https://img.shields.io/badge/X-26333D?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="https://www.youtube.com/@SpendRed23"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-26333D?style=flat-square&logo=youtube&logoColor=white" /></a>
