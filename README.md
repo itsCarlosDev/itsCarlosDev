@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hola, soy Carlos <img width="31" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Mano saludando" />
+  Hola, soy Carlos <img width="31" src="https://raw.githubusercontent.com/iampavangandhi/iampavanghi/master/gifs/Hi.gif" alt="Mano saludando" />
 </h1>
 
 <p align="center">
@@ -8,14 +8,18 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&amp;weight=500&amp;size=20&amp;duration=2900&amp;pause=1300&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=48&amp;lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&amp;color=8FCFD0" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&amp;weight=500&amp;size=20&amp;duration=2900&amp;pause=1300&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=48&amp;lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&amp;color=247A86" />
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&amp;weight=500&amp;size=20&amp;duration=2900&amp;pause=1300&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=760&amp;height=48&amp;lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&amp;color=247A86" alt="Ganamos el WiFi Challenge en THE HACK! 2025. Nexus Realms. Programación y hardware." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=20&duration=2900&pause=1300&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&color=8FCFD0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=20&duration=2900&pause=1300&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&color=247A86" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=20&duration=2900&pause=1300&center=true&vCenter=true&repeat=true&width=760&height=48&lines=Ganamos%20el%20WiFi%20Challenge%20en%20THE%20HACK%21%202025;Nexus%20Realms%2C%20un%20proyecto%20de%20Minecraft%20en%20Java;Me%20gusta%20programar%20y%20experimentar%20con%20hardware&color=247A86" alt="Ganamos el WiFi Challenge en THE HACK! 2025. Nexus Realms. Programación y hardware." />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-morales-artes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-26333D?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a> <a href="https://www.instagram.com/itscarlosdev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-26333D?style=flat-square&amp;logo=instagram&amp;logoColor=white" /></a> <a href="https://x.com/itsCarlosDev"><img alt="X" src="https://img.shields.io/badge/X-26333D?style=flat-square&amp;logo=x&amp;logoColor=white" /></a> <a href="https://www.youtube.com/@SpendRed23"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-26333D?style=flat-square&amp;logo=youtube&amp;logoColor=white" /></a> <a href="https://www.tiktok.com/@spendred23"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-26333D?style=flat-square&amp;logo=tiktok&amp;logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/carlos-morales-artes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-26333D?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/itscarlosdev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-26333D?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/itsCarlosDev"><img alt="X" src="https://img.shields.io/badge/X-26333D?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@SpendRed23"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-26333D?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@spendred23"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-26333D?style=flat-square&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
@@ -27,9 +31,9 @@ Fuera de clase suelo estar liado con algún proyecto: Minecraft, electrónica, i
 ## Proyectos
 
 <!-- Tarjetas con más aire y separación -->
-<table align="center" width="94%">
+<table align="center" width="92%">
   <tr>
-    <td width="47%" valign="top">
+    <td width="46%" valign="top">
       <a href="https://github.com/itsCarlosDev/UAB-THE-HACK-2025-WiFi-Challenge-Winner">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/hack-dark.svg" />
@@ -43,9 +47,9 @@ Fuera de clase suelo estar liado con algún proyecto: Minecraft, electrónica, i
       </a>
     </td>
 
-    <td width="6%"></td>
+    <td width="8%"></td>
 
-    <td width="47%" valign="top">
+    <td width="46%" valign="top">
       <a href="https://github.com/itsCarlosDev/nexus-realms-pack">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/nexus-dark.svg" />
@@ -60,10 +64,10 @@ Fuera de clase suelo estar liado con algún proyecto: Minecraft, electrónica, i
     </td>
   </tr>
 
-  <tr><td colspan="3" height="14"></td></tr>
+  <tr><td colspan="3" height="16"></td></tr>
 
   <tr>
-    <td width="47%" valign="top">
+    <td width="46%" valign="top">
       <a href="https://github.com/itsCarlosDev/Seatly">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/seatly-dark.svg" />
@@ -77,9 +81,9 @@ Fuera de clase suelo estar liado con algún proyecto: Minecraft, electrónica, i
       </a>
     </td>
 
-    <td width="6%"></td>
+    <td width="8%"></td>
 
-    <td width="47%" valign="top">
+    <td width="46%" valign="top">
       <a href="https://github.com/itsCarlosDev/flight-manager-cpp-oop-graphs">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="./assets/flight-dark.svg" />
